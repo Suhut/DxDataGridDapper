@@ -1,0 +1,12 @@
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\obj\Debug\netcoreapp3.1\DxDataGridDapper.AssemblyInfoInputs.cache
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\obj\Debug\netcoreapp3.1\DxDataGridDapper.AssemblyInfo.cs
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\obj\Debug\netcoreapp3.1\DxDataGridDapper.csproj.CoreCompileInputs.cache
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\bin\Debug\netcoreapp3.1\DxDataGridDapper.exe
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\bin\Debug\netcoreapp3.1\DxDataGridDapper.deps.json
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\bin\Debug\netcoreapp3.1\DxDataGridDapper.runtimeconfig.json
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\bin\Debug\netcoreapp3.1\DxDataGridDapper.runtimeconfig.dev.json
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\bin\Debug\netcoreapp3.1\DxDataGridDapper.dll
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\bin\Debug\netcoreapp3.1\DxDataGridDapper.pdb
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\obj\Debug\netcoreapp3.1\DxDataGridDapper.dll
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\obj\Debug\netcoreapp3.1\DxDataGridDapper.pdb
+D:\_PROJECT\_MEDIUM\DxDataGridDapper new\DxDataGridDapper\DxDataGridDapper\DxDataGridDapper\obj\Debug\netcoreapp3.1\DxDataGridDapper.genruntimeconfig.cache
